@@ -11,3 +11,6 @@ Since I was young, I took pride knowing my 'thing' was the passion to learn. & h
 So stay tuned; growth to come.
 
 -M
+
+
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=slawinsm.visitor-badge&left_text=My%20Page%20Visitors) -->
