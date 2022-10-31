@@ -4,9 +4,9 @@
 
 ### Howdy
 
-I am an interdisciplinary health informatician with a background in disease surveillance. I help people understand the big picture and make better decisions for their clients.
+I am an interdisciplinary data analyst with a background in public health, epidemiology and surveillance. I have always been infactuated with complex health issues that require collaborative, cross-sector leaders, data and intitiateives to move the needle. I like to help people understand the big picture and make better decisions for their clients.
 
-Since I was young, I took pride knowing my 'thing' was the passion to learn & here we are. Currently teaching myself R, SQL, PowerBI, ArcGIS Pro, Git and GitHub in my free time. 
+Since I was young, I took pride knowing my 'thing' was the passion to learn & here we are. Currently teaching myself R, SQL and ArcGIS Pro in my free time. 
 
 So stay tuned; growth to come.
 
